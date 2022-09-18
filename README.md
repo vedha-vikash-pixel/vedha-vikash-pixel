@@ -7,7 +7,7 @@
 
 <div display="flex">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>    
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>    
+  <img src="https://img.shields.io/badge/angular-%23007ACC.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>    
 </div>
 
 ### 🔭 I’m working on 

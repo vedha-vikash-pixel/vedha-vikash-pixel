@@ -30,3 +30,5 @@
 
 - 🌱 I’m currently learning docker and kubernetes . 
 - - 📫 Reach out to me on vikashvedha@gmail.com
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vedha-vikash-pixel&theme=blue-green)

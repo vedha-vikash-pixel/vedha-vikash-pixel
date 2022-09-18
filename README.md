@@ -6,7 +6,8 @@
 **I love working with**
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>  
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>    
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>    
 </div>
 
 ### 🔭 I’m working on 
@@ -31,4 +32,4 @@
 - 🌱 I’m currently learning docker and kubernetes . 
 - - 📫 Reach out to me on vikashvedha@gmail.com
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vedha-vikash-pixel&theme=blue-green)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vedha-vikash-pixel&theme=blue-green) -->

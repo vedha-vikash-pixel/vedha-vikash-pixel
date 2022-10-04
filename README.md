@@ -48,5 +48,4 @@ Welcome to my personal github profile
 </div>
 
 
-
-<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vedha-vikash-pixel&theme=blue-green) -->
+![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedha-vikash-pixel&show_icons=true&theme=dark)

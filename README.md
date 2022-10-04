@@ -4,7 +4,7 @@
 </div>
 
 ## Hi there 👋 , I’m @vedha-vikash-pixel (Vedha Vikash) 
-## This is my personal github profile
+Welcome to my personal github profile
 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>  ---> vikashvedha@gmail.com 
 	

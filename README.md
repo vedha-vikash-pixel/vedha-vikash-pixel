@@ -4,7 +4,7 @@
 </div>
 
 ## Hi there 👋 , I’m @vedha-vikash-pixel (Vedha Vikash) 
-Welcome to my personal github profile
+### Welcome to my personal github profile
 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>  ---> vikashvedha@gmail.com 
 	
@@ -33,7 +33,7 @@ Welcome to my personal github profile
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>      
 </div>
 
-### 📫 How to reach me
+<!---### 📫 How to reach me
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/vedha-vikash/">
@@ -45,7 +45,7 @@ Welcome to my personal github profile
   <a href="https://www.instagram.com/vedhavikash/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>    
-</div><br>
-
+</div>--->
+<br>
 
 ![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedha-vikash-pixel&show_icons=true&theme=dark)

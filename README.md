@@ -45,7 +45,7 @@ Welcome to my personal github profile
   <a href="https://www.instagram.com/vedhavikash/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>    
-</div>
+</div><br>
 
 
 ![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedha-vikash-pixel&show_icons=true&theme=dark)

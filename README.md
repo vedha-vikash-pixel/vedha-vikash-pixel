@@ -49,3 +49,7 @@
 <br>
 
 ![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedha-vikash-pixel&show_icons=true&theme=vue-dark)
+
+<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedha-vikash-pixel&theme=vue-dark&layout=compact)--->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedha-vikash-pixel"/>

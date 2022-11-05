@@ -30,7 +30,7 @@
 <div display="flex">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>  
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>      
-</div>
+</div> 
   
 <!---### 📫 How to reach me
 

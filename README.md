@@ -31,7 +31,7 @@
 👀 Creating full stack applications for personal and commercial use. 
 
 ### 🌱 I’m learning
-
+ 
 <div display="flex">
   <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine"/>  
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka"/>      

@@ -30,7 +30,7 @@
 👀 Creating full stack applications for personal and commercial use. 
 
 ### 🌱 I’m learning
-  
+   
 <div display="flex">
    <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka"/>      
    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/>      	

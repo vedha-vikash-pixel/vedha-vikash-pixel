@@ -5,7 +5,7 @@
 ## Hi there 👋 , I’m @vedha-vikash-pixel (Vedha Vikash) 
 ### Welcome to my personal github profile
 
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>  ---> vikashvedha@gmail.com 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>  >>> vikashvedha@gmail.com 
 	
  
 **I love working with**
@@ -23,9 +23,7 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  
 </div>
 
-### 🔭 I’m Interested in 
- 
-👀 Creating full stack applications for personal and commercial use. 
+### 🔭 Love to craft cutting-edge full-stack applications that are both personally fulfilling and commercially impactful! 
 
 ### 🌱 I’m learning
    
